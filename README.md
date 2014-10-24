@@ -20,16 +20,16 @@ Explain here why its good to log. Some points:
 
 Some log level which can be helpful to start with logging (inspired by winston for node).
 
-* silly (e.g. magenta)
-* input (e.g. grey)
-* verbose (e.g. cyan)
-* prompt (e.g. grey)
-* debug (e.g. blue)
-* info (e.g. green)
-* data (e.g. grey)
-* help (e.g. cyan)
-* warn (e.g. yellow)
-* error (e.g. red)
+* silly (e.g. `magenta`)
+* input (e.g. `grey`)
+* verbose (e.g. `cyan`)
+* prompt (e.g. `grey`)
+* debug (e.g. `blue`)
+* info (e.g. `green`)
+* data (e.g. `grey`)
+* help (e.g. `cyan`)
+* warn (e.g. `yellow`)
+* error (e.g. `red`)
 
 
 ## Log servers
