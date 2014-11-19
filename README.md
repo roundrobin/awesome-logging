@@ -57,5 +57,8 @@ Some log level which can be helpful to start with logging (inspired by winston f
 * Pros:
 	* Good to find problems happening during the 
 
+# Docker
+* https://github.com/progrium/logspout
+
 
 
