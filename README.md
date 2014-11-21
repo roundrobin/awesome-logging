@@ -52,6 +52,12 @@ Some log level which can be helpful to start with logging (inspired by winston f
 * Pros:
 	* External Mac app with color coding and log filtering
 
+## Android
+
+* [Galgo](https://github.com/inaka/galgo)
+	Interesting idea to display logs on the device in case you are not connected
+	to the dev machine!
+
 ## MacOSX
 [Console](http://en.wikipedia.org/wiki/Console_(OS_X))
 * Pros:
